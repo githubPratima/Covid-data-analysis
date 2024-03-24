@@ -4,7 +4,7 @@ This project seeks to perform a thorough analysis of COVID-19 insights by employ
 
 Process Steps for Analysis using Power BI:
 
-Data Collection: Gathered the data from the website. Data Spurce: https://ourworldindata.org/coronavirus 
+Data Collection: Gathered the data from the website. Data Source: https://ourworldindata.org/coronavirus 
 
 Data Cleaning and Preparation: Ensured accuracy, completeness, and consistency.
 
