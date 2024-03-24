@@ -13,3 +13,5 @@ Data Modeling: Designed an organized data model for easy analysis.
 Data Visualization: Used Power BI for charts and tables for easy understanding.
 
 Analysis and Insights: Analyzed visualizations to inform business decisions
+
+![Covid data analysis](https://github.com/githubPratima/Covid-data-analysis/assets/98135375/3de81373-5ef3-4230-9656-1ac68cb51863)
