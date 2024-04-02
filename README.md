@@ -8,10 +8,8 @@ Data Collection: Gathered the data From Live API in Jason Form. Source:  https:/
 
 Data Cleaning and Preparation: Ensured accuracy, completeness, and consistency.
 
-Data Modeling: Designed an organized data model for easy analysis.
+Data Visualization: Used Power BI for KPIS and tables of countries for easy understanding.
 
-Data Visualization: Used Power BI for charts and tables for easy understanding.
-
-Analysis and Insights: Analyzed visualizations to inform business decisions
+Analysis and Insights: Analyzed visualizations to to uncover comprehensive COVID-19 case data
 
 ![Screenshot 2024-04-02 080037](https://github.com/githubPratima/Covid-data-analysis/assets/98135375/b6910225-8a33-465a-910d-1186e39fad50)
