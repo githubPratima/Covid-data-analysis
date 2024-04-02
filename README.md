@@ -1,6 +1,6 @@
 # Covid-data-analysis in Power BI
 
-This Power BI dashboard serves as a comprehensive tool for exploring the conditions of COVID-19 across different countries. Utilizing advanced data visualization and analytical techniques, I've meticulously examined COVID-19 insights to uncover significant patterns and trends. By harnessing the capabilities of Power BI, our objective is to reveal insightful metrics such as death rates, recovery trends, and fatality percentages. Leveraging Power BI's robust data modeling and transformation features, the collected data undergoes thorough processing to ensure standardized formats for detailed analysis. The anticipated outcomes of this project include valuable insights into the ever-evolving dynamics of the COVID-19 pandemic.
+This Power BI dashboard serves as a comprehensive tool for exploring the conditions of COVID-19 across different countries. Utilizing advanced data visualization and analytical techniques, I've meticulously examined COVID-19 insights to uncover significant KPIS. By harnessing the capabilities of Power BI, our objective is to reveal insightful metrics such as death rates, recovery trends, and fatality percentages. Leveraging Power BI's transformation features, the collected data undergoes thorough processing to ensure standardized formats for detailed analysis. The anticipated outcomes of this project include valuable insights into the ever-evolving dynamics of the COVID-19 pandemic.
 
 Process Steps for Analysis using Power BI:
 
