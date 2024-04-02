@@ -1,10 +1,10 @@
 # Covid-data-analysis
 
-This project seeks to perform a thorough analysis of COVID-19 insights by employing data visualization and analytical techniques. Through the utilization of tools like Power BI, the goal is to unveil meaningful patterns, trends, and implications associated with the COVID-19 pandemic. The analysis will delve into various aspects such as total cases, confirmed cases, recoveries, and deaths by country, confirmed count by country, date-wise, along mobility trends. Leveraging Power BI's data modeling and transformation capabilities, the collected data will undergo processing and transformation into a standardized format for in-depth analysis. The project outcomes are anticipated to yield valuable insight into the evolving dynamics of the COVID-19 pandemic.
+This Power BI dashboard serves as a comprehensive tool for exploring the conditions of COVID-19 across different countries. Utilizing advanced data visualization and analytical techniques, I've meticulously examined COVID-19 insights to uncover significant patterns and trends. By harnessing the capabilities of Power BI, our objective is to reveal insightful metrics such as death rates, recovery trends, and fatality percentages. Leveraging Power BI's robust data modeling and transformation features, the collected data undergoes thorough processing to ensure standardized formats for detailed analysis. The anticipated outcomes of this project include valuable insights into the ever-evolving dynamics of the COVID-19 pandemic.
 
 Process Steps for Analysis using Power BI:
 
-Data Collection: Gathered the data from the website.
+Data Collection: Gathered the data From Live API in Jason Form. Source:  https://www.trackcorona.live/api/countries
 
 Data Cleaning and Preparation: Ensured accuracy, completeness, and consistency.
 
@@ -14,4 +14,4 @@ Data Visualization: Used Power BI for charts and tables for easy understanding.
 
 Analysis and Insights: Analyzed visualizations to inform business decisions
 
-![Covid data analysis](https://github.com/githubPratima/Covid-data-analysis/assets/98135375/3de81373-5ef3-4230-9656-1ac68cb51863)
+![Screenshot 2024-04-02 080037](https://github.com/githubPratima/Covid-data-analysis/assets/98135375/b6910225-8a33-465a-910d-1186e39fad50)
